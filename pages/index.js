@@ -48,6 +48,8 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
+              
+    By:{' '}
               <Image
                 className={styles.logo}
                 src="/vercel.svg"
